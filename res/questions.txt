@@ -1,0 +1,146 @@
+CHEMISTRY@Hvad er et atom opbygget af?@Protoner, neutroner og elektroner@Promethium, neutroner og elektroner@Protoner, elektroner og neodymer@1
+CHEMISTRY@Hvad kaldes det øverste tal til venstre for grundstofferne i det periodiske system?@Protontal@Kernetal@Elektrontal@2
+CHEMISTRY@Hvad kaldes det nederste tal til venstre for grundstofferne i det periodiske system?@Neutrontal@Protontal@Kernetal@1
+CHEMISTRY@Hvad måles atommasse i?@Unit@Kilo gram@Kernetal@1
+CHEMISTRY@Hvilken pH-værdi skal en væske have for at være basisk?@Under 7@Over 7@0 eller derunder@2
+CHEMISTRY@Hvilken pH-værdi skal en væske have for at være en syre?@Over 7@Under 7@10 eller derover@2
+CHEMISTRY@Hvad er den kemiske formel for salmiak?@NH4Cl@H2SO4@S2A@1
+CHEMISTRY@Hvad er en ion?@Et atom, som ikke kan lede elektrisk strøm@Et atom uden ladning@Et atom med en ladning@3
+CHEMISTRY@Isotoper er et kemisk begreb for?@Atomer med samme protontal men forskelligt kernetal@Atomer med samme kernetal men forskelligt protontal@Atomer med elektrisk ledning@1
+CHEMISTRY@Hvad er det særlige ved en ædelgas?@De reagerer som hovedregel ikke med andre stoffer@De består kun af ædle stoffer@De er de mest villige til at reagere med andre stoffer@1
+CHEMISTRY@Hvad betyder oktetreglen?@At hvis et stof har 8 elektroner i yderste skal, reagerer ædelgasserne villigt med disse@At alle øvrige stoffer i det periodiske system vil reagere med hinanden eller sig selv for at opnå samme antal elektroner som ædelgasserne@At alle stoffer med et kernetal på 8 villigt reagerer med hinanden@2
+CHEMISTRY@Hvilken ladning har ler-ioner?@De er positivt ladet@De er negativt ladet@De har ingen ladning@2
+CHEMISTRY@Kan planter optage N2 fra luften?@Ja, det kan alle planter@Nej, det kan de ikke@Ja, bælgplanter kan@3
+CHEMISTRY@Hvad er sammensatte ioner?@To eller flere ioner, som samlet går på ionform og mister sin ladning@To eller flere ioner, som samlet går på ionform og beholder sin ladning@To eller flere atomer, som samlet går på ionform og dermed opnår en ladning@2
+CHEMISTRY@Hvad består et salt af?@Et metal og en syrerest@H+ og en syrerest@OH- og et metal@1
+CHEMISTRY@Hvad er krystalvand?@Vand, som let krystalliserer@Vandmolekyler, som sidder mellem ionerne i et iongitter@Krystalliseret vand@2
+CHEMISTRY@Hvad består en syre af?@Et metal og en syrerest@H+ og en syrerest@OH- og et metal@3
+CHEMISTRY@Hvad består en base af?@Et metal og en syrerest@H+ og en syrerest@OH- og et metal@3
+CHEMISTRY@Hvad angiver pH-papir?@Mængden af H-’er@Mængden af H+’er@Mængden af H’er@2
+CHEMISTRY@Hvad er vigtigt at huske?@At man aldrig må hælde syre i vand@At man aldrig må hælde vand i syre@At man aldrig må blande syre og vand@2
+CHEMISTRY@Hvad er eutrofiering?@Overgødning, som i søer og havområder fører til øget algevækst, iltsvind og døde fisk@Navnet på den proces, som omsætter nitrat til frit kvælstof@Omsætningen fra ammoniak og ammonium til nitrit og derefter af nitrit til nitrat@1
+CHEMISTRY@Hvad er denitrifikation?@Omsætningen fra ammoniak og ammonium til nitrit og derefter af nitrit til nitrat@Navnet på den proces, som omsætter nitrat til frit kvælstof@Overgødning, som i søer og havområder fører til øget algevækst, iltsvind og døde fisk@2
+CHEMISTRY@Hvilken proces sker ved hjælp af de aerobe jordbakterier?@Denitrifikation@Nitrifikation@Iltfri proces@2
+CHEMISTRY@Hvad er nitrifikation?@Omsætningen fra ammoniak og ammonium til nitrit og derefter af nitrit til nitrat@Overgødning, som i søer og havområder fører til øget algevækst, iltsvind og døde fisk@Navnet på den proces, som omsætter nitrat til frit kvælstof@1
+CHEMISTRY@Hvilke stoffer bruges i gødning?@Kalium, nitrogen og fosfor@Calcium, nitrogen og fosfor@Kalium, nitrat og fosfor@1
+CHEMISTRY@Det stof der er mindst af sætter grænsen for plantens vækst. Det kaldes?@Opfyldningsloven@Begrænsningsloven@Minimumsloven@3
+CHEMISTRY@Hvilken ladning har ammoniumionen NH4?@Negativ@Positiv@Neutral@2
+CHEMISTRY@Hvad er det periodiske system?@Det er et system af samtlige kemiske forbindelser@Det er en oversigt over de forskellige perioder i kemiens historie@Det er en tabel over alle grundstoffer@3
+CHEMISTRY@Hvem fik æren for grundlæggelsen af det periodiske system?@Albert Einstein@Dmitrij Mendelejev@Niels Bohr@2
+CHEMISTRY@Grundstofferne i det periodiske system er nummeret efter:@Deres atommasse@Deres kogepunkt@Deres atomnummer@1
+CHEMISTRY@Det første grundstof i det periodiske system er:@Guld@Hydrogen@Helium@2
+CHEMISTRY@Hvad angiver trappetrinene i det periodiske system?@De inddeler grundstofferne i flydende og faste grundstoffer@De inddeler grundstofferne i nye og gamle grundstoffer@De inddeler grundstofferne i metaller og ikke-metaller@3
+CHEMISTRY@Hvordan finder man atomnummeret på et atom?@Det er antallet af neutroner i atomet som er atomnummeret@Det er antallet af elektroner i atomet som er atomnummeret@Det er antallet af protoner i atomet som er atomnummeret@3
+CHEMISTRY@Ethanol kan fremstilles industrielt ud fra en luftart og vand. Hvad hedder denne luftart?@Ethyn@Ethen@Ethan@2
+PHYSICS@Hvad er curiepunktet?@Den temperatur hvorved det pågældende materiale ikke længere er magnetisk@Det punkt på materialet hvor materialet lettest kan ødelægges@Det punkt på et materiale hvor curie lettest kan måles@1
+PHYSICS@Hvad er småmagneter?@Almindelige, små magneter@Små atomer med elektrisk ladning@Små magneter, som befinder sig i alle atomer@2
+PHYSICS@Hvad opdagede HC Ørsted?@At elektricitet og magnetisme hænger sammen@At der ikke er nogen sammenhæng mellem elektricitet og magnetisme@At det var muligt at skabe elektricitet ved hjælp af magnetisme@1
+PHYSICS@Hvad er en spole?@En elektrisk leder@Et materiale, som skaber elektromagnetisme@Materialet, der styrer nålen på et kompas@1
+PHYSICS@Hvad opdagede Faraday?@At det var muligt at skabe elektricitet ved hjælp af magnetisme@At der ikke er nogen sammenhæng mellem elektricitet og magnetisme@At elektricitet og magnetisme hænger sammen@1
+PHYSICS@Hvilken form for energi omdanner en generator til elektrisk energi?@Termisk energi@Potentiel energi@Kinetisk energi@3
+PHYSICS@Hvor meget strækker en periode sig over?@En svingning fra 0 til Umax@En svingning fra 0 til Umax til 0@En svingning fra 0 til Umax til 0 til Umax tilbage til 0@3
+PHYSICS@Hvad måles frekvens i?@Hertz@Volt@Ampere@1
+PHYSICS@Hvornår opstår en kortslutning?@Når kredsløbet bliver udsat for for mange komponenter@Når der ingen modstand er i kredsløbet@Når der tilsluttes for høj en strømstyrke til et kredsløb@2
+PHYSICS@Hvad kaldes bevægelsesenergi også?@Potentiel energi@Kinetisk energi@Termisk energi@2
+PHYSICS@Hvad kaldes varmeenergi også?@Kinetisk energi@Potentiel energi@Termisk energi@3
+PHYSICS@Hvilken stråling udsender heliumkerner?@Alfa@Beta@Gamma@1
+PHYSICS@Hvilken stråling udsender elektroner?@Alfa@Beta@Gamma@2
+PHYSICS@Hvilken stråling udsender fotoner?@Alfa@Beta@Gamma@3
+PHYSICS@Kan alfastråling blive betaforurenet?@Nej, det er der ikke noget, der hedder@Ja@Nej, det kan kun gammastråling@2
+PHYSICS@Hvilken form for stråling blev tidligere brugt i røgalarmer?@Alfastråling@Betastråling@Gammastråling@1
+PHYSICS@Hvad kalder vi den tid det tager for halvdelen af en mængde radioaktivt materiale at henfalde til et nyt stof?@Delingstid@Halveringstid@Henfaldningstid@2
+PHYSICS@Hvad er fission?@Spaltning af en atomkerne@Den enhed gammastråling måles i@Hastigheden baggrundsstråling spredes ved@1
+PHYSICS@Hvad kaldes den baggrundsstråling, der kommer fra rummet?@Rumstråling@Atmosfærisk stråling@Kosmisk stråling@3
+PHYSICS@Hvilken vej bevæger strømmen sig, når man benytter sig af jævnstrøm?@Fra minus til plus@Fra plus til minus@Begge veje@2
+PHYSICS@Hvilken vej bevæger elektronerne sig, når man benytter sig af jævnstrøm?@Fra minus til plus@Fra plus til minus@Begge veje@1
+PHYSICS@Hvor mange forskellige lag af halvleder-materialer består en periode af?@1 lag@2 lag@3 lag@2
+PHYSICS@Hvor mange forskellige lag af halvleder-materialer består en transistor af?@5 lag@1 lag@3 lag@3
+PHYSICS@Hvilket metal kan en magnet ikke tiltrække?@Jern@Aluminium@Nikkel@2
+PHYSICS@Hvad hedder den første danske satellit, som skal måle Jordens magnetfelt?@Ørsted-satellitten@Andersen-satellitten@Bohr-satellitten@1
+PHYSICS@Hvor ligger Jordens magnetiske sydpol?@I antarktis@I Nord-canada@I Grønland@2
+PHYSICS@Vi ved, at Jorden har et magnetfelt, men har Månen?@Det ved man ikke@Ja, det har månen@Ja, det er dog ikke ligeså kraftigt@3
+PHYSICS@Hvad er misvisningen, hvis du står på en linie mellem geografisk nordpol og magnetisk sydpol?@3 grader mod vest@90 grader@180 grader@3
+PHYSICS@Hvad siger ohms lov?@U = R * I@P = R * I@U = R / I@1
+PHYSICS@Hvad siger joules lov om effekt?@P = I^2 * R@P = I^2 / R@P = I * R^2@1
+PHYSICS@Hvad er lysets hastighed?@60.000 km/sek@300.000 km/sek@30.000 km/sek@2
+PHYSICS@Hvilken enhed måles spænding i?@Ampere@Volt@Watt@2
+PHYSICS@Hvilken enhed måles strømstyrke i?@Ampere@Volt@Watt@1
+PHYSICS@Hvilken enhed måles effekt i?@Ampere@Volt@Watt@3
+PHYSICS@Hvad måler et oscilloskop?@Volt@Ampere@Watt@1
+PHYSICS@Hvad er newton?@Tryk@Densitet@Kraft@3
+GEOGRAPHY@Hvilket vejr vil opstå ved varmfront?@Silende dagsregn@Kraftige byger@Skyfrit vejr@1
+GEOGRAPHY@Hvilket vejr vil opstå ved koldfront?@Skyfrit vejr@Kraftige byger@Silende dagsregn@2
+GEOGRAPHY@Hvad betyder begrebet ‘svedjebrug’?@At brænde skoven for at dyrke jorden@At et firma forflyttes til udlandet grundet billigarbejdskraft@At fast klippe nedbrydes pga. forskellig naturlig slitage@1
+GEOGRAPHY@Hvad betyder begrebet ‘irreversibel’?@At noget er muligt at gendanne@At noget ikke er muligt at gendanne@At noget kan genbruges@2
+GEOGRAPHY@Hvad betyder begrebet ‘erosion’?@At fast klippe nedbrydes pga. forskellig naturlig slitage@At brænde skoven for at dyrke jorden@At et firma forflyttes til udlandet grundet billig arbejdskraft@1
+GEOGRAPHY@Hvad betyder begrebet ‘outsourcing’?@At et firma forflyttes til udlandet grundet billig arbejdskraft@At brænde skoven for at dyrke jorden@At fast klippe nedbrydes pga. forskellig naturlig slitage@1
+GEOGRAPHY@Hvad betyder begrebet ‘emigration’?@Et begreb, der betegner udvandring@Et begreb, der betegner indvandring@Et begreb, der betegner indfødte@1
+GEOGRAPHY@Hvad betyder begrebet ‘imigration’?@Et begreb, der betegner udvandring@Et begreb, der betegner indvandring@Et begreb, der betegner indfødte@2
+GEOGRAPHY@Hvilket arbejde hører til den primære sektor?@Fremskafning af råstoffer@Bearbejdning af råstoffer@Administration og serviceydelser@1
+GEOGRAPHY@Hvilket arbejde hører til den sekundære sektor?@Fremskafning af råstoffer@ Administration og serviceydelser@Bearbejdning af råstoffer@3
+GEOGRAPHY@Hvilket arbejde hører til den tertiære sektor?@Fremskafning af råstoffer@Administration og serviceydelser@Bearbejdning af råstoffer@2
+GEOGRAPHY@Hvad dækker begrebet ‘erhvervsfordeling’ over?@Den offentlige sektor og det private marked@Den primære, sekundære og tertiære sektor@Den arbejdsløse og aktive sektor@2
+GEOGRAPHY@Hvad sker der ved konstruktive pladerande?@Der forsvinder en del af pladerne og deres areal formindskes@Pladerne glider fra hinanden, og der skabes derved mere plade@Pladerne glider parallelt mod hinanden og skaber jordskælv.@2
+GEOGRAPHY@Hvad sker der ved destruktive pladerande?@Pladerne glider fra hinanden, og der skabes derved mere plade@Der forsvinder en del af pladerne og deres areal formindskes@Pladerne glider parallelt mod hinanden og skaber jordskælv.@2
+GEOGRAPHY@Hvad sker der ved bevarende pladerande?@Pladerne glider parallelt mod hinanden og skaber jordskælv.@Pladerne glider fra hinanden, og der skabes derved mere plade@Der forsvinder en del af pladerne og deres areal formindskes,@1
+GEOGRAPHY@Er ocean -eller kontinentalplader de tungeste?@De er lige tunge@Oceanplader@Kontinentalplader@2
+GEOGRAPHY@Hvad er hovedstaden i Somalia?@Mogadishu@Tchad@Zakouma@1
+GEOGRAPHY@Hvad er hovedstaden på Island?@Helsinki@Reykjavik@Nuuk@2
+GEOGRAPHY@På hvilket kontinent møder man Kap Horn?@Afrika@Europa@Sydamerika@3
+GEOGRAPHY@Verdens dybeste dybhavsgrav er Marianergraven, men hvor dyb er den egentlig?@Ca. 15 km@Ca. 20 km@Ca. 11 km@3
+GEOGRAPHY@Hvilket land er Afrikas geografisk tredjestørste?@Algeriet@Sudan@Somalia@2
+GEOGRAPHY@Hvad hedder verdens største sø?@Lake Michigan@Det kaspiske hav@Victoriasøen@2
+GEOGRAPHY@Hvor stor er Bornholm ca.?@400km^2@600km^2@800km^2@2
+GEOGRAPHY@Hvilken figur er aftegnet på Cubas flag?@En sol@En stjerne@En fugl@2
+GEOGRAPHY@Hvordan opstår en regnbue?@Fordi regndråber bryder sollyset som små prismer@Fordi sollyset brydes i ozonlaget@Fordi iskrystaller i høje luftlag bryder sollyset@1
+GEOGRAPHY@Hvad hedder de stærkt hvælvede skyer, der tårner sig op på den blå himmel, alle med flad underside?@Cirrusskyer@Lammeskyer@Cumulusskyer@3
+GEOGRAPHY@Hvor stor en del af et isbjerg findes under havets overflade?@50 %@70 %@90 %@3
+GEOGRAPHY@Hvad sker der med kogepunktet på toppen af et højt bjerg?@Kogepunktet bliver lavere@Kogepunktet bliver højere@Kogepunktet er fortsat 100 grader@1
+GEOGRAPHY@Hvad er en monsun?@Et system af vinde@En havstrøm, der i gamle dage førte sejlskibene rundt om Afrika@Udslip fra undersøiske vulkaner@1
+GEOGRAPHY@Hvorfor er Solen mere rød ved solopgang og solnedgang end midt på dagen?@Fordi lysets bølgelængde ændres lidt af Jordens rotation@Fordi lyset skal bevæge sig et længere stykke gennem atmosfæren@Fordi lyset virker rødere når det er mørkt@2
+GEOGRAPHY@Hvordan opstår nordlys?@Jordens magnetisme får ozonlaget til at lyse@Elektrisk ladede partikler fra solen rammer atmosfæren@Ved gnidninger mellem luftmasser af forskellig temperatur@2
+GEOGRAPHY@Med hvilket måleapparatet, måler man luftens tryk?@Pressometer@Sfærometer@Barometer@3
+GEOGRAPHY@Hvorfor er sne hvidt?@Fordi det kaster al lyset tilbage@Fordi det opsuger al lyset@Fordi det indeholder hvidt farvestof@1
+GEOGRAPHY@Hvad kaldes et stort sneskred også?@En tsunami@En tornado@En lavine@3
+GEOGRAPHY@Hvad kaldes en person, som beskæftiger sig med vejrforhold?@En meteorolog@En geolog@En Glaciolog@1
+GEOGRAPHY@Indenfor hvilke frekvenser ligger det røde farvespektrum?@580-530 THz@700-670 THz@480-405 THz@3
+BIOLOGY@Hvilken vigtig funktion har kostfibre?@De bruges til vækst og vedligeholdelse@De er vigtige for stofskifteprocesser, og mangel kan medføre alvorlige sygdomme@De er vigtige for fordøjelsen, da de opsuger vand og fremmer de peristaltiske bevægelser@3
+BIOLOGY@Hvilken vigtig funktion har proteiner?@De er vigtige for stofskifteprocesser, og mangel kan medføre alvorlige sygdomme@De er vigtige for fordøjelsen, da de opsuger vand og fremmer de peristaltiske bevægelser@De bruges til vækst og vedligeholdelse@3
+BIOLOGY@Hvilken vigtig funktion har vitaminer?@De bruges til vækst og vedligeholdelse@De er vigtige for stofskifteprocesser, og mangel kan medføre alvorlige sygdomme@De er vigtige for fordøjelsen, da de opsuger vand og fremmer de peristaltiske bevægelser@2
+BIOLOGY@Hvad er et økosystem?@Det system, som økologiske varer indsættes i@Et begreb for et komplet miljø i naturen med både levende og ikke levende organismer@Et begreb for et komplet miljø i naturen kun bestående af levende organismer@2
+BIOLOGY@Hvad er ‘sandflugt’?@Mangel på planter samler sandet i klitter@Når sand flygter pga. for store mængder nedbør@Mangel på sollys tvinger sandet til at flygte@1
+BIOLOGY@Hvilket stof bruger hjernen som energikilde?@Insulin@Glukose@Glykogen@2
+BIOLOGY@Hvor i kroppen produceres insulin?@Leveren@Musklerne@Bugspytkirtlen@3
+BIOLOGY@Hvilket hormon omdanner glykogen til glukose?@Glykagen@Insulin@Glykase@1
+BIOLOGY@Hvad er glukagon?@En sukkerart@Et hormon@Et energilager@2
+BIOLOGY@Hvad er glykogen?@En sukkerart@Et hormon@Et energilager@3
+BIOLOGY@Hvad er glukose?@En sukkerart@Et hormon@Et energilager@1
+BIOLOGY@Hvad er insulin?@En sukkerart@Et hormon@Et energilager@2
+BIOLOGY@Hvad er GI en forkortelse for?@Glukose index@Glykogen index@Glykæmisk index@3
+BIOLOGY@Hvordan måles BMI?@vægt i kg ^2 / højde i meter@vægt i kg / højde i meter@vægt i kg / højde i meter ^2@3
+BIOLOGY@Hvilke funktioner styres af hjernestammen?@Den styrer vores bevægelser og balanceevne@Den styrer bl.a. fordøjelsen, åndedrættet og hjertets hastighed@Den registrerer følelser og motivation samt kommer med fysiske reaktioner@2
+BIOLOGY@Hvilke funktioner styres af lillehjernen?@Den gør os i stand til at tænke, huske og være kreative@Den registrerer følelser og motivation samt kommer med fysiske reaktioner@Den styrer vores bevægelser og balanceevne@3
+BIOLOGY@Hvilke funktioner styres af det limbiske system?@Det registrerer følelser og motivation samt kommer med fysiske reaktioner@Det gør os i stand til at tænke, huske og være kreative@Det styrer vores bevægelser og balanceevne@1
+BIOLOGY@Hvilke funktioner styres af storhjernen?@Den registrerer følelser og motivation samt kommer med fysiske reaktioner@Det gør os i stand til at tænke, huske og være kreative@Den styrer bl.a. fordøjelsen, åndedrættet og hjertets hastighed@2
+BIOLOGY@Hvad står forkortelsen DNA for?@di-nuclid-acid@diox-nucleic-acid@deoxyribo-nucleic-acid@3
+BIOLOGY@Hvor mange kromosomer har mennesket?@46@23@48@1
+BIOLOGY@Er en bakterie en en -eller flercellet organisme?@En encellet organisme@En flercellet organisme@Det er ikke en organisme@1
+BIOLOGY@Er en plante en en -eller flercellet organisme?@En encellet organisme@En flercellet organisme@Det er ikke en organisme@2
+BIOLOGY@Hvilken type celler har en cellekerne?@Eukaryote celler@Prokaryote celler@Både eukaryote og prokaryote celler@1
+BIOLOGY@Hvad er prokaryote celler oftest?@Flercellede organismer@Encellede organismer@De kan både være en -og flercellede@2
+BIOLOGY@Hvad kaldes almindelig, ukønnet celledeling?@Meiose@Mitose@Meitose@2
+BIOLOGY@Hvilken celledeling foregår i kønsceller?@Meiose@Mitose@Meitose@1
+BIOLOGY@Hvilken celledeling skaber nøjagtige kopier?@Meiose@Mitose@Meitose@2
+BIOLOGY@Hvor i cellerne foregår respirationen?@Grønkornene@Ribosomerne@Mitokondrierne@3
+BIOLOGY@Hvor i cellerne foregår produktionen af proteiner?@Cellekernen@Ribosomerne@Mitokondrierne@2
+BIOLOGY@Hvad er gensplejsning?@Flytning af gener@Gener, der splejses sammen@Gener, der ødelægges@1
+BIOLOGY@Hvad er en niche?@Én arts særlige tilpasning@De særlige evner, som alle dyr har tilfælles@Hvert enkelt dyrs farve og udseende@1
+BIOLOGY@Hvad er den kemiske skrivemåde for cellulose?@H2C6O2@CO4H12@C6H12O6@3
+BIOLOGY@Hvornår bruges en plantes spalteåbninger?@Ved respiration@Ved fotosyntese@Ved celledeling@1
+BIOLOGY@Hvad er det første led i en nedbrydningsfødekæde?@Planter@Dyr@Dødt organisk materiale@3
+BIOLOGY@Hvad er det første led i en græsningsfødekæde?@Primærproducenter@Dyr, der græsser@Dødt organisk materiale@1
+BIOLOGY@Hvad er en sukkulent?@En plante med tynde blade@En plante uden blade@En plante med tykke blade@3
+BIOLOGY@Hvornår foregår fotosyntesen?@Kun om natten@Kun om dagen@Hele døgnet@2
+BIOLOGY@Hvornår foregår respirationen?@Kun om natten@Kun om dagen@Hele døgnet@3
+BIOLOGY@Vand udgør ca. 68 % af legemsvægten hos mænd. Hvor stor en del udgør vand hos kvinder?@68 %@55 %@72 %@2
+BIOLOGY@Når vi drikker alkohol (ethanol), opstår rusvirkningen i løbet af:@10-20 minutter@1-5 minutter@30-50 minutter@1
